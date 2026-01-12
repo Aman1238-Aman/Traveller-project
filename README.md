@@ -56,7 +56,7 @@ Modular and scalable application architecture
 
 ⚙️ How to Run the Project
 1️⃣ Clone the repository
-git clone https://github.com/your-username/traveller-project.git
+git clone https://github.com/Aman1238-Aman/Traveller-project.git
 
 2️⃣ Navigate to the project directory
 cd traveller-project
